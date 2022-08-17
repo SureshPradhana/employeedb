@@ -1,0 +1,11 @@
+City,Country,DateOfBirth,Email,EmployeeID,EmployeeName,PhoneNumber,Pincode,State,Street,_id
+Lambertville,US,"""2000-07-21T00:00:00.000Z""",elonmusk@gmail.com,1,Elon Musk,7040404450,48144,MI,2952 Bombardier Way,62f7b292a0d4c5d3af04c4bb
+Englewood,US,"""1999-03-21T00:00:00.000Z""",m.wells@randatmail.com,2,Maria Wells,590-7636-99,80112,Colorado,2235 Davis Lane,62f8dd0f72a1d899fb0155b7
+Jackson,US,"""1998-04-20T00:00:00.000Z""",a.holmes@randatmail.com,3,Ashton	Holmes,257-5623-57,39213,Mississippi,4733 Saint Clair Street,62f8dd1c72a1d899fb0155b8
+Bridgeview,US,"""2000-03-21T00:00:00.000Z""",r.cameron@randatmail.com,4,Rafael	Cameron,246-5399-42,60455,Illinois,4885 Rose Street,62f8dd2572a1d899fb0155b9
+N. Miami,US,"""2000-07-17T00:00:00.000Z""",n.kelly@randatmail.com,5,Naomi Kelly,851-2147-28,33137,Florida,4993 Steve Hunt Road,62f8dd3372a1d899fb0155ba
+Essex,US,"""1997-07-21T00:00:00.000Z""",j.warren@randatmail.com,6,Joyce Warren,257-7453-83,21221,Maryland,2331 Green Gate Lane,62f8dd3d72a1d899fb0155bb
+Springfield,US,"""2000-04-04T00:00:00.000Z""",a.rogers@randatmail.com,7,Annabella Rogers,395-2431-69,01103,Massachusetts,2593 Leverton Cove Road,62f8dd4b72a1d899fb0155bc
+Burbank,US,"""2000-06-19T00:00:00.000Z""",m.henderson@randatmail.com,8,Melissa	Henderson,855-4956-13,91505,California,1220 Prospect Valley Road,62f8dd5672a1d899fb0155bd
+Williamsport,US,"""2000-07-01T00:00:00.000Z""",b.riley@randatmail.com,9,Blake Riley,7040404250,17701,Pennsylvania,3716 Stoney Lonesome Road,62f8dd6272a1d899fb0155be
+Corinna,US,"""2000-07-02T00:00:00.000Z""",m.carroll@randatmail.com,10,Madaline Carroll,7040404150,04928,Maine,3191 Chipmunk Lane,62f8dd6c72a1d899fb0155bf

@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "62f7b292a0d4c5d3af04c4bb"
+  },
+  "EmployeeID": 1,
+  "EmployeeName": "Elon Musk",
+  "DateOfBirth": "\"2000-07-21T00:00:00.000Z\"",
+  "Email": "elonmusk@gmail.com",
+  "PhoneNumber": "7040404450",
+  "Street": "2952 Bombardier Way",
+  "City": "Lambertville",
+  "State": "MI",
+  "Country": "US",
+  "Pincode": "48144"
+},{
+  "_id": {
+    "$oid": "62f8dd0f72a1d899fb0155b7"
+  },
+  "EmployeeID": 2,
+  "EmployeeName": "Maria Wells",
+  "DateOfBirth": "\"1999-03-21T00:00:00.000Z\"",
+  "Email": "m.wells@randatmail.com",
+  "PhoneNumber": "590-7636-99",
+  "Street": "2235 Davis Lane",
+  "City": "Englewood",
+  "State": "Colorado",
+  "Country": "US",
+  "Pincode": "80112"
+},{
+  "_id": {
+    "$oid": "62f8dd1c72a1d899fb0155b8"
+  },
+  "EmployeeID": 3,
+  "EmployeeName": "Ashton\tHolmes",
+  "DateOfBirth": "\"1998-04-20T00:00:00.000Z\"",
+  "Email": "a.holmes@randatmail.com",
+  "PhoneNumber": "257-5623-57",
+  "Street": "4733 Saint Clair Street",
+  "City": "Jackson",
+  "State": "Mississippi",
+  "Country": "US",
+  "Pincode": "39213"
+},{
+  "_id": {
+    "$oid": "62f8dd2572a1d899fb0155b9"
+  },
+  "EmployeeID": 4,
+  "EmployeeName": "Rafael\tCameron",
+  "DateOfBirth": "\"2000-03-21T00:00:00.000Z\"",
+  "Email": "r.cameron@randatmail.com",
+  "PhoneNumber": "246-5399-42",
+  "Street": "4885 Rose Street",
+  "City": "Bridgeview",
+  "State": "Illinois",
+  "Country": "US",
+  "Pincode": "60455"
+},{
+  "_id": {
+    "$oid": "62f8dd3372a1d899fb0155ba"
+  },
+  "EmployeeID": 5,
+  "EmployeeName": "Naomi Kelly",
+  "DateOfBirth": "\"2000-07-17T00:00:00.000Z\"",
+  "Email": "n.kelly@randatmail.com",
+  "PhoneNumber": "851-2147-28",
+  "Street": "4993 Steve Hunt Road",
+  "City": "N. Miami",
+  "State": "Florida",
+  "Country": "US",
+  "Pincode": "33137"
+},{
+  "_id": {
+    "$oid": "62f8dd3d72a1d899fb0155bb"
+  },
+  "EmployeeID": 6,
+  "EmployeeName": "Joyce Warren",
+  "DateOfBirth": "\"1997-07-21T00:00:00.000Z\"",
+  "Email": "j.warren@randatmail.com",
+  "PhoneNumber": "257-7453-83",
+  "Street": "2331 Green Gate Lane",
+  "City": "Essex",
+  "State": "Maryland",
+  "Country": "US",
+  "Pincode": "21221"
+},{
+  "_id": {
+    "$oid": "62f8dd4b72a1d899fb0155bc"
+  },
+  "EmployeeID": 7,
+  "EmployeeName": "Annabella Rogers",
+  "DateOfBirth": "\"2000-04-04T00:00:00.000Z\"",
+  "Email": "a.rogers@randatmail.com",
+  "PhoneNumber": "395-2431-69",
+  "Street": "2593 Leverton Cove Road",
+  "City": "Springfield",
+  "State": "Massachusetts",
+  "Country": "US",
+  "Pincode": "01103"
+},{
+  "_id": {
+    "$oid": "62f8dd5672a1d899fb0155bd"
+  },
+  "EmployeeID": 8,
+  "EmployeeName": "Melissa\tHenderson",
+  "DateOfBirth": "\"2000-06-19T00:00:00.000Z\"",
+  "Email": "m.henderson@randatmail.com",
+  "PhoneNumber": "855-4956-13",
+  "Street": "1220 Prospect Valley Road",
+  "City": "Burbank",
+  "State": "California",
+  "Country": "US",
+  "Pincode": "91505"
+},{
+  "_id": {
+    "$oid": "62f8dd6272a1d899fb0155be"
+  },
+  "EmployeeID": 9,
+  "EmployeeName": "Blake Riley",
+  "DateOfBirth": "\"2000-07-01T00:00:00.000Z\"",
+  "Email": "b.riley@randatmail.com",
+  "PhoneNumber": "7040404250",
+  "Street": "3716 Stoney Lonesome Road",
+  "City": "Williamsport",
+  "State": "Pennsylvania",
+  "Country": "US",
+  "Pincode": "17701"
+},{
+  "_id": {
+    "$oid": "62f8dd6c72a1d899fb0155bf"
+  },
+  "EmployeeID": 10,
+  "EmployeeName": "Madaline Carroll",
+  "DateOfBirth": "\"2000-07-02T00:00:00.000Z\"",
+  "Email": "m.carroll@randatmail.com",
+  "PhoneNumber": "7040404150",
+  "Street": "3191 Chipmunk Lane",
+  "City": "Corinna",
+  "State": "Maine",
+  "Country": "US",
+  "Pincode": "04928"
+}]
